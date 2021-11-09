@@ -1,7 +1,7 @@
 {
   "name": "hehe-lerna-module-a",
   "version": "0.0.6",
-  "description": "",
+  "description": "from real yuwenbai",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
