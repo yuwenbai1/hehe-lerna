@@ -1,5 +1,5 @@
 {
-  "name": "hoho-lerna-module-a",
+  "name": "hehe-lerna-module-a",
   "version": "0.0.4",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,5 @@
   },
   "author": "yuwenbai",
   "license": "ISC",
-  "gitHead": "ee75d70bad05a7242dbad3f881a759ab067e5702"
+  "gitHead": "aa43dc355d0e6700e7af36ca26ba61b4ccc12715"
 }
