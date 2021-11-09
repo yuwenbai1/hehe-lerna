@@ -2,5 +2,15 @@
   "packages": [
     "packages/*"
   ],
-  "version": "0.0.6"
+  "version": "0.0.6",
+  "changelog": {
+    "repo": "yuwenbai/hehe-lerna",
+    "labels": {
+      "enhancement": ":rocket: Enhancement",
+      "bug": ":bug: Bug Fix",
+      "doc": "Refine Doc",
+      "feat": "New Feature"
+    },
+    "cacheDir": ".changelog"
+  }
 }
