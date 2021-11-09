@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "rex",
+  "author": "yuwenbai",
   "license": "ISC",
-  "gitHead": "0634fa99153edae902fe08838d3898f20c543a2d"
+  "gitHead": "7cb50b7138c904a48a1748efeaab16af63ad040b"
 }
