@@ -1,6 +1,6 @@
 {
   "name": "hehe-lerna-module-a",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,5 @@
   },
   "author": "yuwenbai",
   "license": "ISC",
-  "gitHead": "aa43dc355d0e6700e7af36ca26ba61b4ccc12715"
+  "gitHead": "43f5f3cf5b972050afbd2a5f696685ff8e8205fc"
 }
